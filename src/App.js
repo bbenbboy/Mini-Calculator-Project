@@ -96,6 +96,7 @@ function Body() {
           RESET
         </button>
       </div>
+      <div className="footer">Created by Matt Ratchapon</div>
     </section>
   );
 }
