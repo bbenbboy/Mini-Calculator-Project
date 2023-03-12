@@ -12,7 +12,6 @@
 body {
   display: grid;
   place-items: center;
-
   margin: 15vh auto;
   background-color: var(--indigo-dye);
 }
@@ -68,6 +67,7 @@ button {
 
 @media only screen and (max-width: 768px) {
   section {
-    width: 80vw;
+    width: 70%;
+    margin: auto 0;
   }
 }
